@@ -1,5 +1,5 @@
 pkgname=dmenu-catdevz-git
-pkgver=5.0.r1
+pkgver=5.0.r1.6835f3e
 pkgrel=1
 epoch=
 pkgdesc="My personal build of dmenu"
