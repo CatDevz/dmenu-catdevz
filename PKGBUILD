@@ -1,5 +1,5 @@
 pkgname=dmenu-catdevz-git
-pkgver=5.0.r1.6835f3e
+pkgver=5.0.r3.2ccd349
 pkgrel=1
 epoch=
 pkgdesc="My personal build of dmenu"
@@ -7,7 +7,7 @@ arch=(x86_64)
 url="https://github.com/CatDevz/dmenu-catdevz.git"
 license=('MIT')
 groups=()
-depends=()
+depends=(nerd-fonts-fantasque-sans-mono ttf-fira-go)
 makedepends=(git)
 checkdepends=()
 optdepends=()
